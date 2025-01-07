@@ -44,7 +44,7 @@ I'm a passionate software developer specializing in **React**, **React Native**,
 ## 🌟 Highlights from My Work
 
 ### 🚧 Featured Project
-- **[Project 1](https://www.parabaapp.com):** A mobile app built with React Native and .Net Core
+- **[PARABA](https://www.parabaapp.com):** A mobile app built with React Native and .Net Core
 
 ---
 
