@@ -32,6 +32,9 @@ I'm a passionate software developer specializing in modern web and mobile techno
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kcaybakan&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaybakan&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kcaybakan&theme=radical)
+![2024 GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical&custom_title=My%202024%20GitHub%20Stats)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=radical&custom_title=My%202024%20Contributions)
+
 
 ---
 
