@@ -2,9 +2,9 @@
 
 I'm a passionate software developer specializing in **React**, **React Native**, **.Net Core**, **SQL**, and **JavaScript**. I enjoy building scalable applications and contributing to open-source projects. Let's connect and collaborate!
 
-🌍 **Based in:** [Your City, Country]  
-💼 **Current Role:** [Your Job Title or Freelance]  
-🎓 **Education:** [Your University or Degree]
+🌍 **Based in:** Istanbul
+💼 **Current Role:** Full Stack Developer  
+🎓 **Education:** Software Engineering
 
 ---
 
@@ -43,10 +43,8 @@ I'm a passionate software developer specializing in **React**, **React Native**,
 
 ## 🌟 Highlights from My Work
 
-### 🚧 Featured Projects
-- **[Project 1](https://github.com/kcaybakan/project1):** A web app built with React and .Net Core.
-- **[Project 2](https://github.com/kcaybakan/project2):** A mobile app developed using React Native.
-- **[Project 3](https://github.com/kcaybakan/project3):** A backend service powered by .Net Core and SQL.
+### 🚧 Featured Project
+- **[Project 1](https://www.parabaapp.com):** A mobile app built with React Native and .Net Core
 
 ---
 
@@ -59,13 +57,9 @@ I'm a passionate software developer specializing in **React**, **React Native**,
 
 ## 📫 How to Reach Me
 
-- 🐦 [Twitter](https://twitter.com/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 🌐 [Portfolio](https://yourwebsite.com)  
-- 📫 [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cagdas-aybakan/)   
+- 📫 [Email](mailto:cagdasaybakan@gmail.com)
 
 ---
 
-## 💡 To Customize This
-Simply replace the placeholders with your personal details and update the links as needed.
 
